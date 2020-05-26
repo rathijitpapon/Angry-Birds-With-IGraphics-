@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494235792 source:d:\angry birds rio\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+
+1492107599 d:\angry birds rio\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
